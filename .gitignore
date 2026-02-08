@@ -1,0 +1,29 @@
+# build artifacts
+build/
+Debug/
+Release/
+*.o
+*.a
+*.elf
+*.map
+*.lst
+*.axf
+*.hex
+*.bin
+*.d
+*.su
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Keil/uVision (se usi Keil su Windows)
+Objects/
+Listings/
+*.uvguix.*
+*.uvoptx
+*.uvopt
+*.uvprojx
+*.uvproj
